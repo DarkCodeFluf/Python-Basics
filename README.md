@@ -1,5 +1,5 @@
 A Trashcan of some* of the Python projects that I've worked on.
-Please keep in mind that I have only started learning Python. 
+Please keep in mind that I have only just started learning Python. 
 
 - guessing_game :
 The Player is asked to guess a random number that the computer "is thinking of".
